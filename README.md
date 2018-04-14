@@ -1,2 +1,2 @@
 # http://jonasrosendo.github.io/easy-website
-A test website for praticing HTML 5 and CSS3
+A test website for practicing HTML 5 and CSS3
